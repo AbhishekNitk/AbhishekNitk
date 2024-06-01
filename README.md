@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK SHARMA</h1>
 <h3 align="center">A passionate Mechatronics engineer from India</h3>
-<img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/2208507/screenshots/9591353/media/47b0cd7b8843083bba0bf909757043ca.gif">
+<img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1236264/screenshots/2787356/robot-cropgif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknitk&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknitk" /> </p>
 
 - 🔭 I’m currently working on [Balancing the inverted pendulum by its linear motion using linear quadratic regulator (LQR) with Extended Kalman Filter for noise reduction.](https://youtu.be/NN4klfxE-hY)
